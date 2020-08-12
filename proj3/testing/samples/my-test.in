@@ -1,0 +1,11 @@
+# Test.
+I prelude1.inc
+> branch other
+<<<
++ f.txt wug.txt
+> add f.txt
+<<<
+> commit "File f.txt"
+<<<
+> rm f.txt
+<<<
